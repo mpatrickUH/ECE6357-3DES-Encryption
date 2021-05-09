@@ -1,6 +1,6 @@
 ECE6357-3DES-Encryption
 
-All .mat files are message/keys used to test the code. At this time, it is set up to only takes hex message/keys. A far as I can tell it is working correctly.
+All .mat files are message/keys used to test the code. It is set up to only takes hex message/keys. As far as I can tell it, is working correctly.
 
 TripleDES.m - Used as a 1 shot to both encrypt/decrypt at the same time. Calls DES_encrypt.m & DES_decrypt.m
 
